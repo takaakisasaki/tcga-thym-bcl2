@@ -1,0 +1,7 @@
+GDCdata/
+data/
+logs/
+*.rda
+*.rds
+*.Rhistory
+.Rproj.user/

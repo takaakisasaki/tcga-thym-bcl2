@@ -1,0 +1,11 @@
+id	filename	md5	size	state
+10fd6087-2189-4e43-99c0-6c50c7140c4d	10fd6087-2189-4e43-99c0-6c50c7140c4d/TCGA-THYM.15e283a9-e46e-4390-b6f8-c763c30649d0.ascat3.gene_level_copy_number.v36.tsv	3de8a4134e501ec1db023caa096d9697	3445490	validated
+3c3f3e5b-93db-49e3-bf1d-0ec436f9cba4	3c3f3e5b-93db-49e3-bf1d-0ec436f9cba4/TCGA-THYM.eceb2ca2-1f57-4af1-85c4-9bc0c52f0d6b.gene_level_copy_number.v36.tsv	92d992cda80f2df9a3fb0eca9f4d9459	3446729	validated
+3fb22a61-0e0f-4b83-b575-fbcc8f119c81	3fb22a61-0e0f-4b83-b575-fbcc8f119c81/TCGA-THYM.5487fcff-4d57-49c6-a785-ba3f118015ee.ascat3.gene_level_copy_number.v36.tsv	9a7ca0a7714df3a6ce75fbe73c5e67c5	3445502	validated
+6052a653-7b90-447c-bb2c-d0413353330d	6052a653-7b90-447c-bb2c-d0413353330d/60061a80-4760-4198-af51-488769a51618.wgs.ASCAT.gene_level.copy_number_variation.tsv	ea1571e0a44f9eaf99d94675d3da8b94	3441245	validated
+6363489f-ee04-492c-9c7e-7ec53ff3462f	6363489f-ee04-492c-9c7e-7ec53ff3462f/TCGA-THYM.15e283a9-e46e-4390-b6f8-c763c30649d0.absolute_liftover.gene_level_copy_number.v36.tsv	eb2e59983387e8f4dd6fae7eda93c35e	3435128	validated
+6b849037-2750-4eac-9625-f36131411b92	6b849037-2750-4eac-9625-f36131411b92/TCGA-THYM.4c0081ae-4b6b-425a-9bc5-1205c2d1f46a.gene_level_copy_number.v36.tsv	1d729fa2ad38e40e115ef936f524ab37	3446745	validated
+708c64dc-eac3-4e03-a1db-03aa32d5ab17	708c64dc-eac3-4e03-a1db-03aa32d5ab17/TCGA-THYM.15e283a9-e46e-4390-b6f8-c763c30649d0.gene_level_copy_number.v36.tsv	1905e8d488dd8efe4f1db1829688c16f	3446744	validated
+86d34631-ecd2-4f42-80c2-33347fae6600	86d34631-ecd2-4f42-80c2-33347fae6600/TCGA-THYM.80ca2ffe-7300-4812-b83f-a5fbd621ae91.absolute_liftover.gene_level_copy_number.v36.tsv	678d80bb88586f6ee2757d179af98745	3437504	validated
+c8625d17-4792-4165-bee0-6c541cfc2304	c8625d17-4792-4165-bee0-6c541cfc2304/TCGA-THYM.19964a4d-f27b-4418-a700-6eb3b991d04f.gene_level_copy_number.v36.tsv	38784795b68f19f77111b2349362bdff	3446679	validated
+ddfb55da-15b0-479f-b44e-1b55207523f2	ddfb55da-15b0-479f-b44e-1b55207523f2/TCGA-THYM.f19998fb-c545-4d39-82ad-a02dbace5250.gene_level_copy_number.v36.tsv	f04a2b61f124106aca20614a5e6e8d7d	3446857	validated
